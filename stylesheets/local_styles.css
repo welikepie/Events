@@ -1,0 +1,44 @@
+@font-face {
+    font-family: 'VolkhovRegular';
+    src: url('fonts/Volkhov-Regular-OTF-webfont.eot');
+    src: url('fonts/Volkhov-Regular-OTF-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/Volkhov-Regular-OTF-webfont.woff') format('woff'),
+         url('fonts/Volkhov-Regular-OTF-webfont.ttf') format('truetype'),
+         url('fonts/Volkhov-Regular-OTF-webfont.svg#VolkhovRegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'VolkhovItalic';
+    src: url('fonts/Volkhov-Italic-OTF-webfont.eot');
+    src: url('fonts/Volkhov-Italic-OTF-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/Volkhov-Italic-OTF-webfont.woff') format('woff'),
+         url('fonts/Volkhov-Italic-OTF-webfont.ttf') format('truetype'),
+         url('fonts/Volkhov-Italic-OTF-webfont.svg#VolkhovItalic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'VolkhovBold';
+    src: url('fonts/Volkhov-Bold-OTF-webfont.eot');
+    src: url('fonts/Volkhov-Bold-OTF-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/Volkhov-Bold-OTF-webfont.woff') format('woff'),
+         url('fonts/Volkhov-Bold-OTF-webfont.ttf') format('truetype'),
+         url('fonts/Volkhov-Bold-OTF-webfont.svg#VolkhovBold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'VolkhovBoldItalic';
+    src: url('fonts/Volkhov-BoldItalic-OTF-webfont.eot');
+    src: url('fonts/Volkhov-BoldItalic-OTF-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/Volkhov-BoldItalic-OTF-webfont.woff') format('woff'),
+         url('fonts/Volkhov-BoldItalic-OTF-webfont.ttf') format('truetype'),
+         url('fonts/Volkhov-BoldItalic-OTF-webfont.svg#VolkhovBoldItalic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+html, body { background-color: #FFF9D4; }
+h1, h2, h3, h4, h5, h6 { font-family: 'VolkhovBoldItalic', Times New Roman, serif; }
+body { font-size: 16px; line-height: 24px; }
